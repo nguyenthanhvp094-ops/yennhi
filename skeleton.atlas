@@ -1,0 +1,8 @@
+skeleton.png
+	size: 528, 1504
+	filter: Linear, Linear
+	pma: true
+name
+	bounds: 2, 2, 305, 1500
+shadow
+	bounds: 309, 509, 217, 993
